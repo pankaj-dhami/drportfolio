@@ -10,7 +10,7 @@ namespace DrNiyatiPortfolio.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Title = "Dr. Niyati Dhawan";
+            ViewBag.Title = "Laser Asthetica.in by Dr Niyati | Cosmetologist & Laser Physician";
             return View();
         }
 
