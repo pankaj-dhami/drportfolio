@@ -152,7 +152,6 @@
     <Content Include="css\style.red.css" />
     <Content Include="css\style.violet.css" />
     <Content Include="favicon.ico" />
-    <Content Include="img\about.jpg" />
     <Content Include="img\acne-preview-1.jpg" />
     <Content Include="img\acne-treatment.jpg" />
     <Content Include="img\chemical-peels.jpg" />
